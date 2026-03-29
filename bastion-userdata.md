@@ -1,5 +1,7 @@
-# bastion userdata
 #!/bin/bash
-yum install -y mysql
-yum install -y git tmux
-yum install -y ansible
+
+dnf update -y
+dnf install -y mysql git tmux ansible curl wget vim
+
+systemctl enable sshd
+systemctl start sshd

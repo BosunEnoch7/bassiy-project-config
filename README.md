@@ -1,4 +1,4 @@
-# Wakabetter-project-config
+# Bassiy-project-config
 AWS Cloud Solution For 2 Company Websites Using A Reverse Proxy Technology
 WARNING: This infrastructure set up is NOT covered by AWS free tier. Therefore, ensure to DELETE  ALL the resources created immediately after finishing the project. Monthly cost may be shockingly high if resources are not deleted. Also, it is strongly recommended to set up a budget and configure notifications when your spendings reach a predefined limit. Watch this video to learn how to configure AWS budget.
 The sole aim of this project to build the infrastructure in AWS using terraform.
